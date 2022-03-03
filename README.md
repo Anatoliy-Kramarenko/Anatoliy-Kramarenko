@@ -1,6 +1,6 @@
-### Hi there 👋, my name is Anatoliy Kramarenko
-#### Full Stack Engineer
-![Full Stack Engineer](https://media-exp1.licdn.com/dms/image/C5622AQH3PnBFFJkG1Q/feedshare-shrink_800/0/1646242521191?e=1649289600&v=beta&t=XjRktHqrRgkK_9201l3Os1w5Kj1qFBBfXXDsMc0nb20)
+### Hi there 👋, I am Anatoliy Kramarenko
+#### Full Stack Engineer 
+![Full Stack Engineer ](https://www.techbabble.zone/content/images/2021/07/46207-programmer-1.gif)
 
 I got bachelor's degree in Computer Engineering in 2015 and has since been working for software companies of all sizes from all around the globe as a freelancer. Currently, 
 
@@ -18,13 +18,13 @@ I'm open to learning new frameworks or languages that are needed to fulfil a pro
 
 I start with understanding and documenting the client's requirements. I use mock-ups and wireframes to design the UI based on the user experience desired. I evaluate appropriate platforms, tools, and languages to offer the best results at the lowest cost and fastest delivery. I am very conscious about making sure we stay within budget and deliver on time so that you will get timely updates and demos of the progress of the project.
 
-Skills: Python | Vue.js | React.js | PHP|
+Skills:  Python | Vue.js | React.js | PHP|
 
 - 🔭 I’m currently working on this page. 
-- 👯 I’m looking to collaborate on Git, e-mail, Linkedin 
-- 💬 Ask me about Web Development 
+- 👯 I’m looking to collaborate on Git, LinkedIn, Email 
+- 💬 Ask me about Web & App Development 
 - 📫 How to reach me: anatoliykramarenko@outlook.com 
-- 😄 Pronouns: He/His 
+- 😄 Pronouns: He / His 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Anatoliy-Kramarenko)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/anatoliy-kramarenko//)  
@@ -38,6 +38,8 @@ Skills: Python | Vue.js | React.js | PHP|
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Anatoliy-Kramarenko&show_icons=true&count_private=true)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Anatoliy-Kramarenko)  
+
+![GitHub metrics](https://metrics.lecoq.io/Anatoliy-Kramarenko)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Anatoliy-Kramarenko)  
 
